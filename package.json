@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/RVCC-IDMX/sass-page-GarryOvide0/issues"
   },
-  "homepage": "https://github.com/RVCC-IDMX/sass-page-GarryOvide0#readme"
+  "homepage": "https://github.com/RVCC-IDMX/sass-page-GarryOvide0#readme",
+  "devDependencies": {
+    "sass": "^1.49.7"
+  }
 }
