@@ -1,0 +1,20 @@
+{
+  "name": "sass-page-garryovide0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/sass-page-GarryOvide0.git"
+  },
+  "keywords": [],
+  "author": "Garry Ovide <govi4116@raritanval.edu> (https://github.com/GarryOvide0)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/sass-page-GarryOvide0/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/sass-page-GarryOvide0#readme"
+}
