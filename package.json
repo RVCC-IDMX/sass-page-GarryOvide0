@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/RVCC-IDMX/sass-page-GarryOvide0#readme",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.3.0",
+    "parcel": "^2.3.0",
     "sass": "^1.49.7"
   }
 }
