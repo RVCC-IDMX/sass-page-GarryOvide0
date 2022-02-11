@@ -3,7 +3,7 @@ This is a readme file for my SASS Page Builder. Explaining  the use of each fold
 
 **utilities/** 
 - Under the utilities folder contain the help files such as variables, functions, mixins.
-   	-variables.scss
+   	_variables.scss
     -functions.scss
 	-mixins.scss
 
