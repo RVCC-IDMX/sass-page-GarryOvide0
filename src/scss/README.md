@@ -4,14 +4,16 @@ This is a readme file for my SASS Page Builder. Explaining  the use of each fold
 **utilities/** 
 - Under the utilities folder contain the help files such as variables, functions, mixins.
     
-   -_variables.scss
+    - _variables.scss
 	
    - _functions.scss
 	
-	-_mixins.scss
+	 - _mixins.scss
 
 **base/**
 - Base stores common style like resets, typography guidelines. Any files that can be reused across your project.
+     - _resets.scss
+     - _typography.scss
 
 **components/**
 - Contains all the buttons, sliders, header, other page component styles, and widgets.
