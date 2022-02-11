@@ -50,7 +50,7 @@ Style, proportions, and spacing are all important factors in typography. Even wh
     - _grid.scss//    
 
 **pages/**
-- Contains all the buttons, sliders, header, other page component styles, and widgets.
+- This is where you'll find any page-specific styles your site's home page may require that no other page receives.
 
     - _home.scss//
 
