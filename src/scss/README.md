@@ -1,5 +1,5 @@
 # README file 
-That is a README.md file for my SASS Page Builder in which we learned about the features that make Sass so useful. Explains the use of each folder and files in each folder of SASS Structure.
+This is a README.md file for my SASS Page Builder in which we learned about the features that make Sass so useful. Explains the use of each folder and files in each folder of SASS Structure.
 
 **utilities/** 
 - Under the utilities folder contain the help files such as variables, functions, mixins.
