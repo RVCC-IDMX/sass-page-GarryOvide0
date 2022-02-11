@@ -55,6 +55,6 @@ Style, proportions, and spacing are all important factors in typography. Even wh
     - _home.scss//
 
     - _about.scss//
-    
+
     - _contact.scss//  
 
