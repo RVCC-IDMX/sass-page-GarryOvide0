@@ -4,7 +4,7 @@ This is a README.md file for my SASS Page Builder in which we learned about the 
 **utilities/** 
 - Under the utilities folder contain the help files such as variables, functions, mixins.
     - _variables.scss
- Variables are straightforward: you assign a value to a name that starts with $, and then refer to that name rather than the value itself. Place where you can save data that you want to reuse across your CSS.
+        -Variables are straightforward: you assign a value to a name that starts with $, and then refer to that name rather than the value itself. Place where you can save data that you want to reuse across your CSS.
     - _functions.scss
  You can construct complicated operations on SassScript data with functions, which you can reuse throughout your stylesheet.
     - _mixins.scss
