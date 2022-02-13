@@ -38,8 +38,10 @@ The purpose of resetting is to remove all default browser styling from elements.
 **layout/**
 - This category contains all the CSS styles related to the layout, including the container, footer, forms, navigation, and the grid system.
 
-    - _grid.scss//  
-A grid, often known as a grid system, is a set of vertical and horizontal lines that provide a structure for stacking design elements in a logical and controllable manner.  
+    - _grid.scss//
+
+A grid, often known as a grid system, is a set of vertical and horizontal lines that provide a structure for stacking design elements in a logical and controllable manner. 
+ 
 A grid is made up of rows, columns, and gutters (the space between the rows and columns). They also allow you to stack design elements vertically or horizontally. 
 
 **pages/**
